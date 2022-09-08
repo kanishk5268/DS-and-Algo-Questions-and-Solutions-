@@ -1,4 +1,6 @@
 // index of first occurrence of element iterative method.
+// This solution will only work when the array is sorted and the elements are repeated otherwise if you simply enter distinct elements then this code is going to fail
+// because it does not check whether the elements are being repeated or not.
 
 #include<iostream>
 using namespace std;
